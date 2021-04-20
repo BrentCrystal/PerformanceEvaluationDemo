@@ -1,5 +1,5 @@
 # Performance Evaluation Demo
-A console UI mini project that tests performance difference concatenating strings vs. using StringBuilder class.
+A mini project that tests performance difference concatenating strings vs. using StringBuilder class.
 
 ### Object Oriented Programming Concepts Showcased
 Class Library | Extension Methods | Method Overriding | Action Delegate
