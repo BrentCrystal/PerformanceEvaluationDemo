@@ -18,7 +18,6 @@ namespace PerformanceEvaluationUI
             
             int[] testIteration = { 500, 5000, 50000 };
             
-
             foreach (int iteration in testIteration )
             {
                 string concatTime = timer.GetPerformanceTime(testString.AppendStrings, iteration);
